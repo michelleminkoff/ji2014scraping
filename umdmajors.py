@@ -1,5 +1,5 @@
 import urllib
-from bs4 import BeautifulSoup
+from BeautifulSoup import BeautifulSoup
 import csv
 
 all_rows = []
