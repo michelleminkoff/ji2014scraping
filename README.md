@@ -1,5 +1,5 @@
 START BY:  
-    Go to this page: https://github.com/michelleminkoff/ji2014scraping  
+    Going to this page: https://github.com/michelleminkoff/ji2014scraping  
     Also click on this to download: http://www.crummy.com/software/BeautifulSoup/bs4/download/4.3/beautifulsoup4-4.3.2.tar.gz
     
 
