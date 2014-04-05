@@ -62,7 +62,7 @@ Interplay between typing and running code
     
 Build that script with all of our pieces! (Finally!)  
 
-    Run the script in Terminal: python ~/Downloads/ji2014scraping-master/umdmajors.py
+Run the script in Terminal: python ~/Downloads/ji2014scraping-master/umdmajors.py  
     
     Import our libraries  
     Start a list for all of our info  
