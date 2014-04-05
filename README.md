@@ -1,3 +1,6 @@
+NOTE FOR LATER: Run the script in Terminal: python ~/Downloads/ji2014scraping-master/umdmajors.py   
+  
+
 CONCEPTUAL OVERVIEW OF SCRAPING
 
 What is scraping?  
