@@ -1,9 +1,9 @@
 CONCEPTUAL OVERVIEW OF SCRAPING
 
-What is scraping?
-    Getting structured information from the unstructured
-        Why we like structured info
-        Best if we can end up with a spreadsheet or database (csv most common)
+What is scraping?  
+    Getting structured information from the unstructured  
+        Why we like structured info  
+        Best if we can end up with a spreadsheet or database (csv most common)  
 
 Why do it?
     Exclusive storytelling
