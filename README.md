@@ -22,6 +22,7 @@ Be careful of...
         http://blog.screen-scraper.com/2008/04/21/screening-scraping-ethics/  
     Paid options  
     Overwhelming a site  
+    Site changes under you  
     
 HOW DOES THE WEB WORK?  
 
