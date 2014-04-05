@@ -35,6 +35,7 @@ How to identify a specific area on the page you're looking for
 
 What we need to scrape - content  
     Introduce sample website we scrape today  
+    http://www.admissions.umd.edu/academics/Majors.php?m=1  
     A web address  
     Way to select overall block of content we want  
     Way to select specific items we want  
