@@ -64,19 +64,19 @@ Build that script with all of our pieces! (Finally!)
 
 Run the script in Terminal: python ~/Downloads/ji2014scraping-master/umdmajors.py  
     
-    Import our libraries  
-    Start a list for all of our info  
-    Add headers  
-    Get and open URL  
-    Get overall content  
-    Get specific lines  
-    Filter bad lines  
-    Get specific bits of info  
-    Put specific bits in empty list  
-    Add row list to overall list  
-    Load a new file  
-    Write to that new file  
-    Open a spreadsheet that's sortable  
+Import our libraries  
+Start a list for all of our info  
+Add headers  
+Get and open URL  
+Get overall content  
+Get specific lines  
+Filter bad lines  
+Get specific bits of info  
+Put specific bits in empty list  
+Add row list to overall list  
+Load a new file  
+Write to that new file  
+Open a spreadsheet that's sortable  
     
 Where do I go from here?  
     Adjust our example  
