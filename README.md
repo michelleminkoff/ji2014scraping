@@ -1,8 +1,3 @@
-START BY:  
-    Going to this page: https://github.com/michelleminkoff/ji2014scraping  
-    Also click on this to download: http://www.crummy.com/software/BeautifulSoup/bs4/download/4.3/beautifulsoup4-4.3.2.tar.gz
-    
-
 CONCEPTUAL OVERVIEW OF SCRAPING
 
 What is scraping?  
@@ -66,6 +61,9 @@ Interplay between typing and running code
     What is the shell?  
     
 Build that script with all of our pieces! (Finally!)  
+
+    Run the script in Terminal: python ~/Downloads/ji2014scraping-master/umdmajors.py
+    
     Import our libraries  
     Start a list for all of our info  
     Add headers  
