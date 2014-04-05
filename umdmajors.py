@@ -29,7 +29,7 @@ for item in content1:
 
 print all_rows
 
-handle = open('~/Desktop/umdmajors.csv', 'w')
+handle = open('/Users/jiconf/Desktop/umdmajors.csv', 'w')
 outfile = csv.writer(handle)
 
 outfile.writerows(all_rows)
