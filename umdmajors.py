@@ -26,10 +26,11 @@ for item in content1:
 		row_content.append(item['href'])
 
 		all_rows.append(row_content)
-
+#Add a # before the "print all_rows" line to comment it out, or remove it. 
+#Shows the raw rows being printed to the spreadsheet. It will spit out a lot of code in your command line.
 print all_rows
 
-handle = open('/Users/jiconf/Desktop/umdmajors.csv', 'w')
+handle = open('umdmajors.csv', 'w')
 outfile = csv.writer(handle)
 
 outfile.writerows(all_rows)
